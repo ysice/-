@@ -1,3 +1,5 @@
 http://7xihe6.com1.z0.glb.clouddn.com/20170424149302281650160.png
 
 java项目没有日志
+
+可能是Profile里没有指定jar包
