@@ -2,3 +2,5 @@
 cat /var/log/upstart/dc-agent.log
 
 ps找dc-agent kill掉重新执行安装
+
+如何日志文件过大只需重复执行上述操作。
